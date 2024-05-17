@@ -1,0 +1,10 @@
+:root {
+  --black-700: #000;
+  --blueGradiant: #3b2a9f;
+
+}
+.bg-blueG{
+  background-color: var(--blueGradiant);
+}
+
+
